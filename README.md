@@ -1,5 +1,5 @@
 # emoji
-Unicode Emoji
+ Emoji
 People
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
